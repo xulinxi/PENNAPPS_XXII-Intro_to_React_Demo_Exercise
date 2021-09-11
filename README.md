@@ -1,2 +1,2 @@
-# PENNAPPS_XXII-Intro_to_React_Demo_Exercise
+# Intro-to-React-Workshop-Starter-Code
 Created with CodeSandbox
